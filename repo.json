@@ -1,0 +1,13 @@
+{
+  "game": "Tree of Savior",
+  "cdn": "https://cdn.rawgit.com/ToS-Addons/ToS-Addons/{channel}/releases/{name}/{version}.zip",
+  "script": "script/goodiebag.js",
+  "homepage": "https://github.com/ToS-Addons/ToS-Addons",
+  "icon": "icon.png",
+  "categories": {
+    "quests-leveling": "Quests & Leveling"
+  },
+  "platforms": [
+    "windows"
+  ]
+}
